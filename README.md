@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @blackneverlosesgrace
-- 👀 I’m interested in Analysis and Strategy
-- 🌱 I’m currently learning Excel.
-- 💞️ I’m looking to collaborate on any project related with Analysis and Excel
+- 👋 Hi, I’m @blackneverlosesgrace aka Swati
+- 👀 I’m interested in Tech, Analysis and Strategy
+- 🌱 I’m currently learning Excel/SQL/FD.
+- 💞️ I’m looking to collaborate on any project
 - 📫 DM (Open for projects and Help)
 
 <!---
